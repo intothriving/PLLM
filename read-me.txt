@@ -1,0 +1,27 @@
+I created this by following the incredible YouTube video by Alejandro!  Thanks Alejandro!  
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg
+
+It's really fascinating how this works.
+
+You'll need to add an .env file containing the following:
+
+OPENAI_API_KEY=[open ai key]
+HUGGINGFACEHUB_API_TOKEN=[hugging face token]
+something="this"
+
+It's very interesting how this works.  You basically upload your documents and click on the Process
+button, then the program turns your documents into embeddings and stores them in a vector database then it 
+does a similarity search based on the questions you ask about your documents.
+
+It's brilliant.
+
+I can think of all kind of cool things you could use this for and all kinds of enhancements, the 
+possibilities are endless.
+
+I can help you get it all set up if that isn't your thing too!
+
+Come join me on my "Let's Do AI Things" weekly group Zoom calls
+
+For more information visit https://www.paulgoulart.com
+
+Thank you for your interest!
